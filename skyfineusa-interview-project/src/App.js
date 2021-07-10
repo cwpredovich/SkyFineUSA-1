@@ -1,5 +1,5 @@
 import './App.css';
-import logo from './police-car-stock-photo.jpeg'
+// import logo from './police-car-stock-photo.jpeg'
 import Table from './Table';
 
 function App() {
